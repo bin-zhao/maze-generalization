@@ -1,3 +1,5 @@
+### Creator迷宫生成：DFS与BFS算法实现
+
 # 前言  
 
 我的迷宫代码的实现受到[liuyubobobo/Play-with-Algorithm-Visualization](https://github.com/liuyubobobo/Play-with-Algorithm-Visualization/tree/master/06-Maze-Generalization) 的影响.  
